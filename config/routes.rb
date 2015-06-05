@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-    first-app::Application.routes.draw do
+    FirstApp::Application.routes.draw do
         root "application#hello"
         
   # The priority is based upon order of creation: first created -> highest priority.
